@@ -1,0 +1,6 @@
+title:Season 18 Wishlist
+description: My wishlist for Season 18.
+
+// Whistler's Whim
+//notes:Sourced from https://www.youtube.com/watch?v=p7nWB6g3_Xo Recommended MW: Draw Time
+dimwishlist:item=1574601402&perks=852209214,3429800428,588594999,1365187766
