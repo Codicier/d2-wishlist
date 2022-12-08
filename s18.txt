@@ -1,6 +1,22 @@
-title:Season 18 Wishlist
-description: My wishlist for Season 18.
+title:Season 19 Wishlist
+description: My wishlist for Season 19.
 
 // Whistler's Whim
 //notes:Sourced from https://www.youtube.com/watch?v=p7nWB6g3_Xo Recommended MW: Draw Time
 dimwishlist:item=1574601402&perks=852209214,3429800428,588594999,1365187766
+dimwishlist:item=1574601402&perks=2801223209,3429800428,588594999,1365187766
+
+// Prolonged Engagement
+// Fallout's PVP godroll MW: Range
+dimwishlist:item=2349907931&perks=202670084,1885400500,1359896290,2846385770
+
+// Rose
+// Fallout's PVP Perks MW: Range
+dimwishlist:item=882778888&perks=1482024992,3142289711,1428297954,699525795
+
+// Personal PVE  MW: Range
+dimwishlist:item=882778888&perks=1482024992,3142289711,247725512,3038247973
+
+// The Inquisitor
+// Fallout's PVP godroll MW: Range
+dimwishlist:item=2185327324&perks=1482024992,2420895100,1428297954,47981717
