@@ -28,3 +28,7 @@ dimwishlist:item=3635821806&perks=3250034553,1885400500,3619207468,4045335048
 // Autumn Wind
 // Aztecross's PVP godroll MW: Range
 dimwishlist:item=3110377595&perks=3250034553,1885400500,2846385770,460017080
+
+//Nessa's Oblation
+// Plunder PVE MW: Range
+dimwishlist:item=135029084&perks=839105230,106909392,776531651,2048641572
