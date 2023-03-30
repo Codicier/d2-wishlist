@@ -44,3 +44,7 @@ dimwishlist:item=62937067&perks=839105230,1885400500,1168162263,4293542123
 dimwishlist:item=2488587246&perks=3250034553,1885400500,2779035018,776531651
 // Personal PVP MW: Range
 dimwishlist:item=2488587246&perks=3250034553,1885400500,2946784966,699525795
+
+// Buzzard
+// Personal PVE Arrowhead Brake, Ricochet Rounds, Overflow, Kinetic Tremors MW: Range
+dimwishlist:item=213264394&perks=839105230,1885400500,3643424744,3891536761
