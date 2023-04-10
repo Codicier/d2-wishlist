@@ -48,3 +48,18 @@ dimwishlist:item=2488587246&perks=3250034553,1885400500,2946784966,699525795
 // Buzzard
 // Personal PVE Arrowhead Brake, Ricochet Rounds, Overflow, Kinetic Tremors MW: Range
 dimwishlist:item=213264394&perks=839105230,1885400500,3643424744,3891536761
+
+// Iterative Loop
+// Personal PVE Arrowhead Brake, Accelerated Coils, Lead From Gold, Voltshot MW: Range
+dimwishlist:item=1289796511&perks=839105230,689005463,1556840489,2173046394
+
+// Fallout PVP Arrowhead Brake, Projection Fuse, Under Pressure, Elemental Capacitor (Void) MW: Range
+dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,3511092054
+
+// Round Robin
+// Aztecross PVP Smallbore, Ricochet Rounds, Enhanced Keep Away, Enhanced Kill Clip MW: Range
+dimwishlist:item=2034215657&perks=1482024992,1885400500,3198323828,2923251173
+
+// Irukandji
+// Aztecross/Personal PVP Hammerforged Rifling, Accurized Rounds, Keep Away, Opening Shot MW: Range
+dimwishlist:item=2673925403&perks=3250034553,3142289711,3619207468,47981717
