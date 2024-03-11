@@ -126,3 +126,25 @@ dimwishlist:item=435821040&perks=839105230,1885400500,3017780555,4293542123
 // Personal PVP Arrowhead Brake, Ricochet Rounds, Heal Clip, Headseeker
 dimwishlist:item=435821040&perks=839105230,3230963543,3017780555,460017080
 
+// Igneous Hammer
+// jazzinyourface PVP Smallbore, Extended Mag, Rapid Hit, Moving Target MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,2420895100,247725512,588594999
+// jazzinyourface PVP Smallbore, Ricochet Rounds, Rapid Hit, Moving Target MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,1885400500,247725512,588594999
+// jazzinyourface PVP Smallbore, Extended Mag, Keep Away, Eye of the Storm MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,2420895100,3619207468,699525795
+// jazzinyourface PVP Smallbore, Ricochet Rounds, Keep Away, Eye of the Storm MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,1885400500,3619207468,699525795
+
+//jazzinyourface PVP 7.3.5 Patch Smallbore, Ricochet Rounds, Keep Away, Precision Instrument MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,1885400500,3619207468,555281244
+//jazzinyourface PVP 7.3.5 Patch Smallbore, Extended Mag, Keep Away, Precision Instrument MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,2420895100,3619207468,555281244
+//jazzinyourface PVP 7.3.5 Patch Smallbore, Ricochet Rounds, Rangefinder, Precision Instrument MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,1885400500,2846385770,555281244
+//jazzinyourface PVP 7.3.5 Patch Smallbore, Extended Mag, Rangefinder, Precision Instrument MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,2420895100,2846385770,555281244
+//jazzinyourface PVP 7.3.5 Patch Smallbore, Extended Mag, Rapid Hit, Precision Instrument MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,2420895100,247725512,555281244
+//jazzinyourface PVP 7.3.5 Patch Smallbore, Ricochet Rounds, Rapid Hit, Precision Instrument MW: Stability
+dimwishlist:item=1973107014&perks=1482024992,1885400500,247725512,555281244
