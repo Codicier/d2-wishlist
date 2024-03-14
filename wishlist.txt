@@ -148,3 +148,15 @@ dimwishlist:item=1973107014&perks=1482024992,2420895100,2846385770,555281244
 dimwishlist:item=1973107014&perks=1482024992,2420895100,247725512,555281244
 //jazzinyourface PVP 7.3.5 Patch Smallbore, Ricochet Rounds, Rapid Hit, Precision Instrument MW: Stability
 dimwishlist:item=1973107014&perks=1482024992,1885400500,247725512,555281244
+
+// The Summoner
+// Aztecross PVE Arrowhead Brake, Ricochet Rounds, Heal Clip, Incandescent MW: Range
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,4293542123
+// Aztecross PVE Arrowhead Brake, Ricochet Rounds, Subsistence, Onslaught MW: Range
+dimwishlist:item=1820994983&perks=839105230,1885400500,1820235745,95528736
+// Aztecross PVE Arrowhead Brake, Ricochet Rounds, Overflow, Onslaught MW: Range
+dimwishlist:item=1820994983&perks=839105230,1885400500,3643424744,95528736
+// Aztecross PVP Arrowhead Brake, Ricochet Rounds, Zen Moment, Target Lock MW: Range
+dimwishlist:item=1820994983&perks=839105230,1885400500,2387244414,365154968
+// Aztecross PVP Arrowhead Brake, Ricochet Rounds, Zen Moment, Onslaught MW: Range
+dimwishlist:item=1820994983&perks=839105230,1885400500,2387244414,95528736
