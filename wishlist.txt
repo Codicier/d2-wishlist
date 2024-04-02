@@ -160,3 +160,15 @@ dimwishlist:item=1820994983&perks=839105230,1885400500,3643424744,95528736
 dimwishlist:item=1820994983&perks=839105230,1885400500,2387244414,365154968
 // Aztecross PVP Arrowhead Brake, Ricochet Rounds, Zen Moment, Onslaught MW: Range
 dimwishlist:item=1820994983&perks=839105230,1885400500,2387244414,95528736
+
+// Multimach
+// Aztecross PVP Hammerforged Rifling, Accurized Rounds, Dynamic Sway Reduction, Tap the Trigger MW: Range
+dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,1890422124
+// Aztecross PVE Hammerforged Rifling, Accurized Rounds, Attrition Orbs, Kinetic Tremors MW: Stability
+dimwishlist:item=3211624072&perks=3250034553,3142289711,243981275,3891536761
+
+//Tusk of the Boar
+// Aztecross PVE Countermass, High Velocity Rounds, Envious Assassin, Hatchling MW: Handling
+dimwishlist:item=1218113510&perks=3809316345,2822142346,968510818,831391274
+// Personal PVE Countermass, High Velocity Rounds, Slice, Chain Reaction MW: Handling
+dimwishlist:item=1218113510&perks=3809316345,2822142346,923806249,2396489472
